@@ -3,6 +3,8 @@ Salut, c'est un plugin qui refais le Pvp Java de la version 1.9 sur le software 
 
 ## Attack Cooldown :
 
+![blurrys-java-pvp_16](https://github.com/user-attachments/assets/05da10ea-566a-4938-9755-2d14b486af52)
+
 | Items                       | Cooldown                                                      
 |--------------------------------|-------------------------------------------------------------------
 | `Sword`            | 0.6 seconds    
