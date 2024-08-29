@@ -20,3 +20,23 @@ Salut, c'est un plugin qui refais le Pvp Java de la version 1.9 sur le software 
 
 > Sweeping Edge is the pvp "farm", it allows you to hit all your mobs on a longer range
 
+##Critical Hit :
+
+![blurrys-java-pvp_18](https://github.com/user-attachments/assets/04d39381-388f-44aa-b7de-41e88744ca01)
+
+> Hitting a player while falling will land a critical hit. This does 150% the damage a normal hit would.
+
+## Sprint Hit
+
+![blurrys-java-pvp_12](https://github.com/user-attachments/assets/89f4c6bd-8a77-40a4-bb58-40c0f0677eee)
+
+> When a player sprints while on the ground, they can land a sprint hit. Landing a sprint hit deals extra knockback to the player.
+> - **Knocks the player 3.5 blocks back**
+
+## OffHand Swap
+
+![blurrys-java-pvp_15](https://github.com/user-attachments/assets/2d9cf129-9c2d-4c04-a5f3-8f8833f50337)
+
+> Just like Java, you can swap certain items into your offhand by right clicking (LT/L2 on console). The items that can be swapped are:
+>   - **Totems**
+>   - **Arrows**
