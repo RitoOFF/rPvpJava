@@ -2,6 +2,9 @@
 
 Hi, this is a plugin that remakes the Java PvP of version 1.9 on the Pocketmine software, called PvpJava this plugin contains the cooldown to hit, the scanning edge, knockback hit, critical hit, sprint hit, arc punch and even casual exchange.
 
+- Software : Pocketmine
+- Api : 5.0.0
+
 --------------------------------------------------------
 
 ## Attack Cooldown :
