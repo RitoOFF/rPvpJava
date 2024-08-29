@@ -44,6 +44,10 @@ Hi, this is a plugin that remakes the Java PvP of version 1.9 on the Pocketmine 
 >   - **Totems**
 >   - **Arrows**
 
+## Arc Punch
+
+> I didn't make a video for the punch arc but it is beautiful and present.
+
 --------------------------------------------------------
 
 This plugin was designed by me and inspired by an addon for the idea and texture pack: https://mcpedl.com/blurrys-java-pvp/
