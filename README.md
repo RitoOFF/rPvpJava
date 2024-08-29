@@ -3,7 +3,7 @@ Salut, c'est un plugin qui refais le Pvp Java de la version 1.9 sur le software 
 
 ## Attack Cooldown :
 
-| Attack Cooldown                       | Cooldown                                                      
+| Items                       | Cooldown                                                      
 |--------------------------------|-------------------------------------------------------------------
 | `Sword`            | 0.6 seconds    
 | `Axe ( Wood, Stone )`     | 1.25 seconds
