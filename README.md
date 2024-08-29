@@ -1,6 +1,6 @@
 # Java PVP - PLUGIN 
 
-Salut, c'est un plugin qui refais le Pvp Java de la version 1.9 sur le software Pocketmine , du le nom PvpJava ce plugin contien le cooldown pour frapper, le sweeping edge, knockback hit,critical hit,sprint hit, arc punch and even offhand swap.
+Hi, this is a plugin that remakes the Java PvP of version 1.9 on the Pocketmine software, called PvpJava this plugin contains the cooldown to hit, the scanning edge, knockback hit, critical hit, sprint hit, arc punch and even casual exchange.
 
 --------------------------------------------------------
 
