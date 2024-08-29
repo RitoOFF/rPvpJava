@@ -47,7 +47,7 @@ Hi, this is a plugin that remakes the Java PvP of version 1.9 on the Pocketmine 
 ## Arc Punch
 
 | Bow                       | Enchant                       | Motion                                                      
-|--------------------------------|-------------------------------------------------------------------
+|--------------------------------|--------------------------|--------------------------
 | `Bow`            | Punch   | 2 
 
 > I didn't make a video for the punch arc but it is beautiful and present.
