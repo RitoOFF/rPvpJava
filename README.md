@@ -1,5 +1,8 @@
 # Java PVP - PLUGIN 
+
 Salut, c'est un plugin qui refais le Pvp Java de la version 1.9 sur le software Pocketmine , du le nom PvpJava ce plugin contien le cooldown pour frapper, le sweeping edge, knockback hit,critical hit,sprint hit, arc punch and even offhand swap.
+
+--------------------------------------------------------
 
 ## Attack Cooldown :
 
@@ -40,3 +43,7 @@ Salut, c'est un plugin qui refais le Pvp Java de la version 1.9 sur le software 
 > Just like Java, you can swap certain items into your offhand by right clicking (LT/L2 on console). The items that can be swapped are:
 >   - **Totems**
 >   - **Arrows**
+
+--------------------------------------------------------
+
+This plugin was designed by me and inspired by an addon for the idea and texture pack: https://mcpedl.com/blurrys-java-pvp/
