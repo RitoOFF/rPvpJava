@@ -93,7 +93,6 @@ class AttackListener implements Listener
             }
 
             Main::getInstance()->getScheduler()->scheduleRepeatingTask(new CooldownAttackTask(), 20);
-            $this->sendUnicodeActionBar($damager);
         }
     }
 
@@ -128,13 +127,4 @@ class AttackListener implements Listener
         }
     }
 
-    private function sendUnicodeActionBar(Player $player): void
-    {
-        $unicodeMessage = "";
-       // $player->sendActionBarMessage($unicodeMessage);
-
-        foreach (str_split($unicodeMessage) as $unicode) {
-            $player->sendActionBarMessage($unicode);
-        }
-    }
 }
